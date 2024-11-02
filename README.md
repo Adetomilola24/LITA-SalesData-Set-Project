@@ -38,3 +38,10 @@ ii. Which Product are the top sellers
 
 iii. What are the productots on the peak sales?
 
+## Data Analysis
+This is where we included some basic lines of code and queries or even some of the DAX  expressions used during the analysis.
+
+```SQL
+SELECT * FROM TABLE1
+WHERE CONDITION = TRUE
+```
