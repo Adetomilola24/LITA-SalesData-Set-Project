@@ -15,9 +15,9 @@
 
 ## Data Tools Used
 - Microsoft Excel [download here](http://www.microsoft.com) 
-  1. Data Cleaning
-  2. Analysis 
-  3. Visualization
+  i. Data Cleaning
+ ii. Analysis 
+iii. Visualization
 
 - SQL-Structured Query Language for querying of data
 
@@ -30,3 +30,11 @@ In the intial phase of the data cleaning and preparation, we performed the follo
   3. Data Cleaning and Formatting
      
 ## Exploratoy Data Analysis
+EDA involes exploring of Data to answer questions about the data such as:
+
+i. What is the overall Sales Trend
+
+ii. Which Product are the top sellers
+
+iii. What are the productots on the peak sales?
+
