@@ -46,4 +46,4 @@ SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 ```
 ## Data Visualization
-[LITA Capstone SalesData.xlsx](https://github.com/user-attachments/files/17608200/LITA.Capstone.SalesData.xlsx)
+![Uploading Screenshot 2024-11-02 at 4.10.56 PM.jpg…]()
