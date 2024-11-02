@@ -45,3 +45,5 @@ This is where we included some basic lines of code and queries or even some of t
 SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 ```
+## Data Visualization
+[LITA Capstone SalesData.xlsx](https://github.com/user-attachments/files/17608200/LITA.Capstone.SalesData.xlsx)
