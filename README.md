@@ -9,11 +9,11 @@
 
 - To create any other interesting report
 
-# Data Sources
+## Data Sources
 
 - The primary data source used here is SalesData.csv
 
-# Data Tools Used
+## Data Tools Used
 - Microsoft Excel [download here](http://www.microsoft.com) 
   1. Data Cleaning
   2. Analysis 
@@ -22,3 +22,11 @@
 - SQL-Structured Query Language for querying of data
 
 - Github for Portfolio building
+  
+## Data Cleaning and Preparation
+In the intial phase of the data cleaning and preparation, we performed the following actions
+  1. Data Loading and Inspections
+  2. Handling various Variables
+  3. Data Cleaning and Formatting
+     
+## Exploratoy Data Analysis
