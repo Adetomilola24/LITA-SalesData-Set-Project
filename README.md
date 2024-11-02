@@ -1,6 +1,6 @@
 # LITA-SalesData-Set-Project
 
-## Project Title: Sales Perfermonces Excel Project
+## Project Title: Sales Performances Excel Project
 
 ## Project Overview:
 - To perform an initial exploration of the sales data using pivot tables to summarize total sales by product, region, and month.
