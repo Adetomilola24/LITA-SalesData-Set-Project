@@ -14,7 +14,10 @@
 - The primary data source used here is SalesData.csv
 
 # Data Tools Used
-- Microsoft Excel for Data Cleaning, Analysis and Visualization
+- Microsoft Excel [download here](http://www.microsoft.com) 
+  1. Data Cleaning
+  2. Analysis 
+  3. Visualization
 
 - SQL-Structured Query Language for querying of data
 
