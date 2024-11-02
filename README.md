@@ -47,3 +47,8 @@ WHERE CONDITION = TRUE
 ```
 ## Data Visualization
 ![Uploading Screenshot 2024-11-02 at 4.10.56 PM.jpg…]()
+
+
+|Heading 1|Heading 2|Heading 3|
+|---------|---------|---------|
+|Table 1|Table 2|Table 3|
